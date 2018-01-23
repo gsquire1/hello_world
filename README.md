@@ -1,2 +1,3 @@
 # hello_world
 WTF!!!!!!
+Hello, As I use git on a linux box for some python dev we do, I have never used github per se. here we go.........
